@@ -1,0 +1,27 @@
+/* Input field */
+.form-control {
+	width: 400px;
+	display: block;
+	padding: 10px;
+	margin: 6px;
+	border: #424242 solid 1px;
+	border-radius: 100px;
+}
+
+.form-control:focus {
+	outline: none;
+}
+
+/* Button */
+.btn {
+	cursor: pointer;
+	padding: 10px;
+	margin: 6px;
+	background: DodgerBlue;
+	border: #424242 solid 1px;
+	border-radius: 100px;
+}
+
+.btn:focus {
+	outline: none;
+}
